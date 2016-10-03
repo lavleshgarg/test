@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>GARGL</sys_created_by>
+        <sys_created_on>2016-10-03 20:05:29</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fcc115f41356a20078a35f722244b0c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_nykl3_test_table.x_nykl3_test.user</sys_name>
+        <sys_package display_value="test" source="x_nykl3_test">6bb1d1b41356a20078a35f722244b032</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="test">6bb1d1b41356a20078a35f722244b032</sys_scope>
+        <sys_security_acl display_value="x_nykl3_test_table">f4c115f41356a20078a35f722244b0c2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fcc115f41356a20078a35f722244b0c3</sys_update_name>
+        <sys_updated_by>GARGL</sys_updated_by>
+        <sys_updated_on>2016-10-03 20:05:29</sys_updated_on>
+        <sys_user_role display_value="x_nykl3_test.user" name="x_nykl3_test.user">b3b115f41356a20078a35f722244b0bc</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
